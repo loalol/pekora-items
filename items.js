@@ -756,5 +756,7 @@ var items = [
   {"Name": "Rosey Smile", "Value": 0, "RAP": 124, "itemId": "501918"},
   {"Name": "Golden Chrome Shades", "Value": 0, "RAP": 93, "itemId": "499893"},
   {"Name": "Steampunk Santa", "Value": 0, "RAP": 97, "itemId": "641642"},
-  {"Name": "When Animals Attack : Shark Situations", "Value": 0, "RAP": 44, "itemId": "578355"}
+  {"Name": "When Animals Attack : Shark Situations", "Value": 0, "RAP": 44, "itemId": "578355"},
+  {"Name": "Midnight Blue Shaggy", "Value": 0, "RAP": 506, "itemId": "366591"},
+ {"Name": "Tiny Elf Hat", "Value": 0, "RAP": 104, "itemId": "354086"},
 ];
